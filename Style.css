@@ -1,0 +1,13 @@
+body{
+	background: turquoise;
+}
+p{
+	font-family: sans-serif;
+	font-size: 2em;
+	color: navy;
+}
+.kon{
+	font-size: 3em;
+	font-family: cursive;
+	color: orchid;
+}
